@@ -66,27 +66,27 @@ footer {
 }
 
 
-@media screen and (max-width:768px){
+@media screen and (max-width:768px) {
 
-body{
-  justify-content:center;
+body {
+  justify-content: center;
   width: 100%;
 }
 
-main{
+main {
   display: flex;
-  justify-content:center;
-  flex-direction:column;
+  justify-content: center;
+  flex-direction: column;
   width: 100%;
-} 
+}
 
-.container{
+.container {
   width: 90%;
   margin: 0 auto;
   margin-bottom: 20px;
 }
 
-.container:last-child{
+.container:last-child {
   margin: 0 auto;
 }
 
